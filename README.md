@@ -13,7 +13,6 @@ Open your Flutter project's `pubspec.yaml` file and add the PayHere Flutter SDK 
   flutter_payhere:
     git:
       url: git://github.com/iwalpola/flutter_payhere.git
-      path: flutter_payhere
 ```
 
 Then run the following commands in your Flutter project directory.
